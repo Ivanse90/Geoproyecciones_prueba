@@ -17,10 +17,10 @@
   }
   @include desktop{
     &.nonactive{
-      width: 97%;
-      width: calc(100% - 46px);
-      width: -moz-calc(100% - 46px);
-      width: -webkit-calc(100% - 46px);
+      width: 100%;
+      //width: calc(100% - 46px);
+      //width: -moz-calc(100% - 46px);
+      //width: -webkit-calc(100% - 46px);
     } 
   }
 }

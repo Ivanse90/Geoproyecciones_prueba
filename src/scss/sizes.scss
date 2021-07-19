@@ -1,9 +1,9 @@
 // variables:
-$tablet-width: 768px;
+$tablet-width: 933px;
 $desktop-width: 1024px;
 
 @mixin tablet {
-  @media (max-width: #{$tablet-width - 1px}) {
+  @media (max-width: #{$tablet-width}) {
     @content;
   }
 }

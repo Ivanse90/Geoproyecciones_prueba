@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\index.scss"],"names":[],"mappings":"AAEA,SACI,UAAA,CACA,YAGJ,MACI,aAGJ,MACI","file":"scss.d56655fc.css","sourceRoot":"..\\src","sourcesContent":["@import './colors.scss';\r\n\r\n#content{\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\n.hide{\r\n    display: none;\r\n}\r\n\r\n.show{\r\n    display: block;\r\n}\r\n\r\n\r\n"]}
